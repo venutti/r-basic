@@ -1,7 +1,7 @@
 #Esta línea no funciona, por ahora...
 #lm(y~x)
 
-
+## Este bloque de código viene del ejemplo en help(lm)
 require(graphics)
 
 ## Annette Dobson (1990) "An Introduction to Generalized Linear Models".
